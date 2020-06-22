@@ -1,0 +1,14 @@
+127.0.0.1 - - [11/Jun/2020:11:43:29 -0400] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:11:43:31 -0400] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:11:43:32 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4001
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:11:43:32 -0400] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 200 1049
+127.0.0.1 - - [11/Jun/2020:14:14:25 -0400] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:14:14:30 -0400] "GET /Mycoolwebapp/ HTTP/1.1" 200 61
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:05 -0400] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:07 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3432
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:22 -0400] "GET /web-customer-tracker/customer/showFormForAdd HTTP/1.1" 200 1372
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:44 -0400] "POST /web-customer-tracker/customer/saveCustomer HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:44 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4003
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:53 -0400] "GET /web-customer-tracker/customer/showFormForUpdate?customerId=2 HTTP/1.1" 200 1396
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:59 -0400] "POST /web-customer-tracker/customer/saveCustomer HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jun/2020:17:10:59 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3998

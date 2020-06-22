@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:24 -0400] "GET /web-customer-tracker/customer/showFormForAdd HTTP/1.1" 200 1372
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:24 -0400] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:24 -0400] "GET /web-customer-tracker/resources/css/add-customer-style.css HTTP/1.1" 200 604
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:25 -0400] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:27 -0400] "GET /web-customer-tracker/customer/showFormForAdd HTTP/1.1" 200 1372
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:29 -0400] "GET /web-customer-tracker/customer/showFormForAdd HTTP/1.1" 200 1372
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:37 -0400] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:38 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4001
+0:0:0:0:0:0:0:1 - - [14/May/2020:10:22:48 -0400] "GET /web-customer-tracker/customer/showFormForUpdate?customerId=6 HTTP/1.1" 200 1400
