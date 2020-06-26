@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Built-By: prateek keerthi
+Build-Jdk: 11.0.6
+Automatic-Module-Name: org.hibernate.validator
+Created-By: Apache Maven Bundle Plugin
+Implementation-Title: hibernate-validator
+Implementation-URL: http://hibernate.org/validator/
+Implementation-Vendor: org.hibernate.validator
+Implementation-Vendor-Id: org.hibernate.validator
+Implementation-Version: 6.1.3.Final
+Specification-Title: Jakarta Bean Validation
+Specification-Version: 2.0
+Bnd-LastModified: 1593101050115
+Bundle-Description: Hibernate's Jakarta Bean Validation reference implem
+ entation.
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Hibernate Validator Engine
+Bundle-SymbolicName: org.hibernate.validator
+Bundle-Version: 6.1.3.Final
+Export-Package: org.hibernate.validator;version="6.1.3.Final",org.hibern
+ ate.validator.group;version="6.1.3.Final",org.hibernate.validator.messa
+ geinterpolation;version="6.1.3.Final",org.hibernate.validator.metadata;
+ version="6.1.3.Final",org.hibernate.validator.parameternameprovider;ver
+ sion="6.1.3.Final",org.hibernate.validator.path;version="6.1.3.Final",o
+ rg.hibernate.validator.resourceloading;version="6.1.3.Final"
+Import-Package: javax.money;version="[1.0.0,2.0.0)";resolution:=optional
+Originally-Created-By: Maven Integration for Eclipse
+Tool: Bnd-3.5.0.201709291849
+

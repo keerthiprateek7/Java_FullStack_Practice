@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="spring-security-demo"/>
+<aop-project name="spring-security-demo-04-bootstrap-login-form"/>
+<aop-project name="spring-security-demo-03-custom-login-form"/>
+<aop-project name="spring-security-demo-05-user-roles"/>
+<aop-project name="spring-security-demo-06-jdbc-plaintext"/>
 </aop-reference-model>

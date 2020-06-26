@@ -6,6 +6,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\prateek keerthi\eclipse-workspace\spring-security-demo-01-base-app"/>
+			<item value="C:\Users\prateek keerthi\eclipse-workspace"/>
 			<item value="C:\Users\prateek keerthi\Downloads\original (6)\solution-code-spring-mvc-CRUD-CRM-list-customers"/>
 			<item value="C:\Users\prateek keerthi\eclipse-workspace\Spring-demo-annotations"/>
 		</list>
